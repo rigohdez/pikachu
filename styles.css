@@ -3,6 +3,10 @@
     --skin-color-2: black;
 	--border-pikachu: 2px solid black;
 }
+body{
+    display: flex;
+    justify-content: center;
+}
 .pikachu{
     width: 450px;
     height: 550px;
